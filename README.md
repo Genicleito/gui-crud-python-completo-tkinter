@@ -6,6 +6,7 @@ O Sistema registra logs de cada operação realizada (útil para auditorias) e f
 O Sistema possui opções para exportar os dados como um Excel (xlsx) que pode ser utilizado em outras ferramentas e uma opção para exportar um relatório PDF com as informações cadastradas agregadas.
 
 # Estrutura do Sistema
+```mk
 ./
 │
 ├── dist/app.exe
@@ -16,6 +17,7 @@ O Sistema possui opções para exportar os dados como um Excel (xlsx) que pode s
 │
 └── database/
     ├── database.db
+```
 
 # Pacotes necessários
 - pandas==2.1.4 (para manipulação dos dados)
