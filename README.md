@@ -1,4 +1,4 @@
-# gui-crud-python-completo-tkinter
+# [GUI] CRUD Completo com Python/tkinter - Exemplo com `Gestão Municipal de Abastecimento Emergencial de Água`
 Interface gráfica completa de um Sistema de Cadastro, Atualização, Listagem e Remoção (CRUD) de dados de formulário sobre prestação de serviço.
 Foi construído simulando um sistema de Gestão Municipal de Abastecimento de Água.
 O banco de dados do sistema fica localizado na pasta `database/database.db`.
